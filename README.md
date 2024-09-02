@@ -18,7 +18,7 @@ Note that we had severe limitations with the final capability of the model - we 
 
 YOLOv7's inbuilt calculations recommended a minimum of 171 epochs to train the model on all of the data we provided it - the most we were able to train was 100 epochs (58.4% of the minimum required for decent performance).
 
-When training the model yourself, try to run up to 171 epochs if your compute time and budget allows.
+When training the model yourself, try to run up to 171 epochs if your compute time and budget allow.
 
 ### Acknowledgements
 This project would not have been possible without the support of the open-source community and the [creators](https://ieeexplore.ieee.org/document/10204762/authors#authors) of YOLOv7.
