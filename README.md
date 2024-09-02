@@ -9,7 +9,8 @@ Josh Tittiranonda - Stanford Online High School
 You can view the Jupyter Notebook for a tutorial on training and inferencing [here](training_and_inference.ipynb).
 
 Documentation (paper, video, spreadsheet, etc) can be found [here](https://drive.google.com/drive/folders/13_QLQmkHtv_PdvRZbzdH0UySW4L2YAw1?usp=sharing).
-The trained models (and their associated testing videos) can be found here: [here](https://drive.google.com/drive/folders/1unqygoG7jHg0SykfKAocx0J4j3OFKjz3?usp=sharing).
+
+The trained models (and their associated testing videos) can be found [here](https://drive.google.com/drive/folders/1unqygoG7jHg0SykfKAocx0J4j3OFKjz3?usp=sharing).
 
 <hr>
 
