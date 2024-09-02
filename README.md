@@ -1,7 +1,7 @@
 # Team GAEL - 2024 MATE/NOAA Ocean Exploration Computer Coding Challenge
 
 
-![GAEL Example](static/output.gif)
+![GAEL Example](static/demo.gif)
 
 Rohan Vij, Kevin Geng, Shan Kanwar - Dublin High School<br>
 Josh Tittiranonda - Stanford Online High School
